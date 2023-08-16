@@ -3516,11 +3516,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\source\\repos\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\Aluno\\source\\repos\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Documents\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\source\\repos\\Biblioteca\\Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Documents\\Biblioteca\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",

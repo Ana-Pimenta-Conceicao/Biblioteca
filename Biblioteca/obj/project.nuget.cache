@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LqCfYIpUW46GWIP9qKm7d45JfIxTmcrcH+aUlZ/IT4slFPb33Lb+TDQLaQsjimj9EpYKzIT88IoqR5qINBXxVw==",
+  "dgSpecHash": "LHz1r+RzhFsDqm3Tl090umzFnhG7SJgZePAceycNHHVhBAPPq6p7hOx2GrpYz8PW3V3xXd3/aHJhzxf3RZSCZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\source\\repos\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\Documents\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
